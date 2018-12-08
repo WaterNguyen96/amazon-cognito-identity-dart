@@ -1,3 +1,5 @@
+This projectis forked from [amazon-cognito-identity-dart] (https://github.com/jonsaw/amazon-cognito-identity-dart) .Which has some differents from the origin for my personal usage
+
 # Amazon Cognito Identity SDK for Dart
 Unofficial Amazon Cognito Identity SDK written in Dart for [Dart](https://www.dartlang.org/).
 
