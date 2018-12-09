@@ -13,6 +13,7 @@ pubspec.lock
 
 # Files and directories created by VSCode
 .vscode
+.idea
 cognito-dart.code-workspace
 
 # Directory created by dartdoc
